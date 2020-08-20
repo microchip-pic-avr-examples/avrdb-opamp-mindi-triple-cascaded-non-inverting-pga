@@ -1,7 +1,7 @@
 # Getting started with Mindi® simulation and AVR®DB microcontrollers
 This guide will get you up and running with simulating the analog OPAMP module in AVR DB family devices using the Mindi simulation tool.
 ## Configuration: Cascaded (Three) Non-Inverting PGA
-This opamp configuration uses three op-amps in a programmable gain configuration to enable a greater range of amplification. The amplification can be configured run-time by setting the feedback dividers.
+This op amp configuration uses three op amps in a programmable gain configuration to enable a greater range of amplification. The amplification can be configured run-time by setting the feedback dividers.
 
 ![Cascaded Non-Inverting PGA](images/configuration.png)
 
@@ -20,4 +20,3 @@ Once the desired result has been verified with Mindi simulation, the corrected v
 
 ### Don't have Mindi?
 Download and install [Mindi simulation tool](https://www.microchip.com/mplab/mplab-mindi)
-Download and install Mindi model for AVR DB device
